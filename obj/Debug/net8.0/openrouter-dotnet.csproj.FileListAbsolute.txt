@@ -1,0 +1,15 @@
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/bin/Debug/net8.0/openrouter-dotnet
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/bin/Debug/net8.0/openrouter-dotnet.deps.json
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/bin/Debug/net8.0/openrouter-dotnet.runtimeconfig.json
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/bin/Debug/net8.0/openrouter-dotnet.dll
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/bin/Debug/net8.0/openrouter-dotnet.pdb
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net8.0/openrouter-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net8.0/openrouter-dotnet.AssemblyInfoInputs.cache
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net8.0/openrouter-dotnet.AssemblyInfo.cs
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net8.0/openrouter-dotnet.csproj.CoreCompileInputs.cache
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net8.0/openrouter-dotnet.sourcelink.json
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net8.0/openrouter-dotnet.dll
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net8.0/refint/openrouter-dotnet.dll
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net8.0/openrouter-dotnet.pdb
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net8.0/openrouter-dotnet.genruntimeconfig.cache
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net8.0/ref/openrouter-dotnet.dll

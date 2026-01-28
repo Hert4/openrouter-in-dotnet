@@ -1,14 +1,22 @@
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\bin\Debug\net10.0\openrouter-dotnet.exe
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\bin\Debug\net10.0\openrouter-dotnet.deps.json
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\bin\Debug\net10.0\openrouter-dotnet.runtimeconfig.json
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\bin\Debug\net10.0\openrouter-dotnet.dll
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\bin\Debug\net10.0\openrouter-dotnet.pdb
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\obj\Debug\net10.0\openrouter-dotnet.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\obj\Debug\net10.0\openrouter-dotnet.AssemblyInfoInputs.cache
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\obj\Debug\net10.0\openrouter-dotnet.AssemblyInfo.cs
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\obj\Debug\net10.0\openrouter-dotnet.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\obj\Debug\net10.0\openrouter-dotnet.dll
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\obj\Debug\net10.0\refint\openrouter-dotnet.dll
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\obj\Debug\net10.0\openrouter-dotnet.pdb
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\obj\Debug\net10.0\openrouter-dotnet.genruntimeconfig.cache
-C:\Users\ADMIN\OneDrive\Máy tính\browser-agent\openrouter-dotnet\obj\Debug\net10.0\ref\openrouter-dotnet.dll
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/bin/Debug/net10.0/openrouter-dotnet.exe
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/bin/Debug/net10.0/openrouter-dotnet.deps.json
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/bin/Debug/net10.0/openrouter-dotnet.runtimeconfig.json
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/bin/Debug/net10.0/openrouter-dotnet.dll
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/bin/Debug/net10.0/openrouter-dotnet.pdb
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/obj/Debug/net10.0/openrouter-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/obj/Debug/net10.0/openrouter-dotnet.AssemblyInfoInputs.cache
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/obj/Debug/net10.0/openrouter-dotnet.AssemblyInfo.cs
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/obj/Debug/net10.0/openrouter-dotnet.csproj.CoreCompileInputs.cache
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/obj/Debug/net10.0/openrouter-dotnet.dll
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/obj/Debug/net10.0/refint/openrouter-dotnet.dll
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/obj/Debug/net10.0/openrouter-dotnet.pdb
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/obj/Debug/net10.0/openrouter-dotnet.genruntimeconfig.cache
+C:/Users/ADMIN/OneDrive/Máy tính/browser-agent/openrouter-dotnet/obj/Debug/net10.0/ref/openrouter-dotnet.dll
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net10.0/openrouter-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net10.0/openrouter-dotnet.AssemblyInfoInputs.cache
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net10.0/openrouter-dotnet.AssemblyInfo.cs
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net10.0/openrouter-dotnet.csproj.CoreCompileInputs.cache
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net10.0/openrouter-dotnet.sourcelink.json
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net10.0/openrouter-dotnet.dll
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net10.0/refint/openrouter-dotnet.dll
+/home/misa/CUA/Mem-Agent/test/openrouter-in-dotnet/obj/Debug/net10.0/openrouter-dotnet.pdb

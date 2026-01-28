@@ -1,7 +1,7 @@
 
 # Demo OpenRouter + .NET
 
-## 📌 Giới thiệu
+## Giới thiệu
 
 Dự án này minh họa cách sử dụng **OpenRouter Chat Completions API** trong ứng dụng **.NET (C#)** để:
 
@@ -15,15 +15,17 @@ Không log metadata dư thừa như `usage`, `cost`, `id`.
 
 ---
 
-## 🔐 Yêu cầu trước khi chạy
+## Yêu cầu trước khi chạy
 
-### 1️⃣ Tạo API Key OpenRouter
+### Tạo API Key OpenRouter
 
-Đăng ký và tạo API key tại OpenRouter.
+Đăng ký và tạo API key tại OpenRouter nếu dùng.
 
-### 2️⃣ Set biến môi trường
+### Set biến môi trường
 
 #### macOS / Linux
+
+> set any api, example using openrouter
 
 ```bash
 export OPENROUTER_API_KEY="your_api_key_here"
@@ -101,7 +103,7 @@ Chương trình **chỉ log ra nội dung phản hồi của assistant**, đúng
 
 ## Cách hoạt động
 
-1. Gửi request tới OpenRouter `/chat/completions`
+1. Gửi request tới openrouter/local-test-api `/chat/completions`
 2. Ép response theo `json_schema`
 3. Parse response:
 
