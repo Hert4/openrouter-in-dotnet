@@ -48,7 +48,7 @@ using System.Threading.Tasks;
 ### Endpoint
 
 ```
-POST http://test-k8s.misa.local/llm-gateway/v1/chat/completions
+POST your-url-v1/chat/completions
 ```
 
 ### Headers
@@ -367,7 +367,7 @@ public class Message
 ```csharp
 // Gửi request
 var response = await client.PostAsync(
-    "your-url",
+    "your-url-v1/chat/completions",
     new StringContent(json, Encoding.UTF8, "application/json")
 );
 
@@ -609,7 +609,7 @@ class Program
         using var client = new HttpClient();
         client.Timeout = TimeSpan.FromMinutes(5);
         client.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
-        client.DefaultRequestHeaders.Add("HTTP-Referer", "your-url");
+        client.DefaultRequestHeaders.Add("HTTP-Referer", "your-url-v1/chat/completions");
 
         var body = new
         {
@@ -647,7 +647,7 @@ class Program
         try
         {
             var response = await client.PostAsync(
-                "your-url",
+                "your-url-v1/chat/completions",
                 new StringContent(json, Encoding.UTF8, "application/json")
             );
 
